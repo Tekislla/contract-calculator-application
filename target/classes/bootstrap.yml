@@ -1,6 +1,0 @@
-spring:
-  cloud:
-    config:
-      uri: http://10.77.0.72:8888
-  application:
-    name: "contract"
